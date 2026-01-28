@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/g52Wkngftok.gif"  />
+  <img height="200" src="./bambi-birds.gif"  />
 </div>
 
 ###
